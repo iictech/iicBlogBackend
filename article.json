@@ -1,0 +1,10 @@
+{
+    "id": "abc123",
+    "title": "Lorem Ipsum",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar lacus mattis nisi gravida eleifend. Maecenas faucibus libero ac ligula feugiat pharetra. Pellentesque facilisis ex at condimentum convallis. Donec sed enim et sapien porta ultrices. Aenean feugiat magna at neque rhoncus interdum. Aliquam a lacinia nibh, ut dignissim est. In nec enim rutrum nunc dictum faucibus eu nec nunc. Proin molestie tellus et augue ornare, pellentesque dignissim turpis mollis. Donec et nibh sit amet dui imperdiet aliquet. Integer interdum dui non lacus cursus, quis feugiat elit commodo. Nulla nec feugiat odio. Nam venenatis posuere purus, nec finibus tortor varius id. Nunc cursus, enim ac imperdiet tincidunt, massa urna ornare mauris, non eleifend justo dui id lacus. Vivamus et arcu auctor, feugiat sem ac, vestibulum nibh.",
+    "img_url": "http://blog.com/img/i123",
+    "likes": 10,
+    "tags": ["tag1", "tag2"],
+    "posted_data": "2021-11-14",
+    "author": "authorName"
+}
